@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,KAGC,8CAAgD","file":"main.52d52206.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\nbody {\n  background-image: linear-gradient(#87ceeb, gold);\n}\n"]}
